@@ -92,17 +92,6 @@ streamlit run main.py
 
 The application will launch automatically in your default web browser.
 
----
-
-## 📸 Screenshot
-
-Add a screenshot of your application here after uploading it to GitHub.
-
-Example:
-
-```
-images/chatbox.png
-```
 
 ---
 
