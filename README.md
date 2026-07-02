@@ -137,7 +137,11 @@ This project helped me learn:
 Built as part of my AI and Python learning journey.
 
 ---
+## 📸 Screenshot
 
+![Chatbox AI](images/chatbox.png)
+
+---
 ## 📄 License
 
 This project is intended for educational and portfolio purposes.
