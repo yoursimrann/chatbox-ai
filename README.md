@@ -92,8 +92,13 @@ streamlit run main.py
 
 The application will launch automatically in your default web browser.
 
+<<<<<<< HEAD
 ---
 
+=======
+
+---
+>>>>>>> b7aa7ffdd9f340f8a084e111a51a0021e9c451a9
 
 ## 📚 What I Learned
 
